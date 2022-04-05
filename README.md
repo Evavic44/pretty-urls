@@ -1,10 +1,13 @@
 # Pretty URLs 👸🏽
 How to make your static site URLS look like disney princesses using Netlify
 
-| Pretty URLS                                                                                                                            ||
-|  :----:                                                                                                                   | ----------- |
-| Pretty image goes into this super long table........................       | Title       |
-| Paragraph                                                                                                                 | Text        |
+## Not So Pretty
+![not-so-pretty](https://user-images.githubusercontent.com/62628408/161827941-97064cf8-1bd6-442b-aeb2-df3e838bbc08.png)
+
+
+## Pretty
+
+
 
 ## Attribution
 This is a demo site by [Netlify](https://netlify.com). Modified and uploaded for teaching how to make links pretty using Netlify Pretty URL feature. 
